@@ -22,7 +22,7 @@ Domain and ITIL practices </p>
 <img align="right" alt="GIF" src="https://github.com/keshavsingh4522/keshavsingh4522/blob/master/Assets/Monkey_Kid_Coding.gif" width="350"/>
 
 <!-- ![Visits badge](https://visitor-badge.glitch.me/badge?page_id=abhishek-choudharys.abhishek-choudharys) -->
-- 🔭 I’m currently working as a Software Engineer at GenX Info Technologies.
+- 🔭 I’m currently working as a Assistant Manager at EXL.
 - 🌱 I’m currently learning about Data Science and machine Learning. <!-- - 👯 I’m looking to collaborate on --> 
 - 🤔 I’m looking for help with serverless deployment hell.
 - 💬 Ask me just about anything. I am happy to help.
